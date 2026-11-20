@@ -1,0 +1,54 @@
+{
+  "highscore_filename": "data/highscores.json",
+  "lives": 3,
+  "points_per_pacgum": 10,
+  "points_per_super_pacgum": 50,
+  "points_per_ghost": 200,
+  "pacgum": 42,
+  "seed": 42,
+  "level_max_time": 90,
+  "maze_perfect": false,
+  "levels": [
+    {
+      "width": 21,
+      "height": 21,
+      "seed": 42
+    },
+    {
+      "width": 23,
+      "height": 23
+    },
+    {
+      "width": 25,
+      "height": 25
+    },
+    {
+      "width": 27,
+      "height": 27
+    },
+    {
+      "width": 29,
+      "height": 29
+    },
+    {
+      "width": 31,
+      "height": 31
+    },
+    {
+      "width": 33,
+      "height": 33
+    },
+    {
+      "width": 35,
+      "height": 35
+    },
+    {
+      "width": 37,
+      "height": 37
+    },
+    {
+      "width": 39,
+      "height": 39
+    }
+  ]
+}

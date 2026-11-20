@@ -1,0 +1,49 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments and local package installs
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Build and packaging outputs
+build/
+dist/
+*.egg
+
+# Logs and runtime dumps
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.vscode/
+.idea/
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Game/package generated outputs
+*.spec
+*.app/
